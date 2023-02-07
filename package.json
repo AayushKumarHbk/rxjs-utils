@@ -1,6 +1,6 @@
 {
   "name": "rxjs-utils",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Library consisting of compound rxjs operators for certain use cases",
   "main": "index.js",
   "scripts": {
