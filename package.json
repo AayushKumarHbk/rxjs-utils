@@ -10,7 +10,12 @@
     "type": "git",
     "url": "git+https://github.com/AayushKumarHbk/rxjs-utils.git"
   },
-  "keywords": [],
+  "keywords": [
+    "rxjs-utils",
+    "rxjs",
+    "operators",
+    "typescript"
+  ],
   "author": "aayushkumarhbk@gmail.com",
   "license": "ISC",
   "bugs": {
